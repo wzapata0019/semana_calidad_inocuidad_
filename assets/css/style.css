@@ -1998,7 +1998,7 @@ html, body {
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 62px;
+  bottom: 100px;
   margin: 0 auto;
   background-color: #ffffff;
   opacity: 0;
@@ -2037,13 +2037,13 @@ html, body {
 
 .portfolio-item .portfolio-info h3 {
   margin: 20px 0 0;
-  font-size: 16px;
+  font-size: 10px;
   font-weight: 600;
 }
 
 .portfolio-item .portfolio-info h3 + p {
-  margin: 10px 0 0;
-  font-size: 12px;
+  margin: 0 0 0;
+  font-size: 8px;
   font-weight: 300;
   color: #bbbbbb;
 }
