@@ -500,12 +500,16 @@ html, body {
   }
 
   .main-service.main-service.text-left {
-    margin-top: -30px;
+    margin-top: -70px;
     margin-bottom: -120px;
     text-align: left;
   }
   .main-service.main-service.text-left h3 {
     font-size: 10px;
+  }
+  .main-service.main-service.text-left ul {
+    font-size: 8px;
+    margin-left: -50px;
   }
   .site-section .container h2{
     font-size: 16px;
