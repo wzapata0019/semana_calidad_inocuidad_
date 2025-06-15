@@ -1976,7 +1976,8 @@ html, body {
 
 .portfolio-item .portfolio-item-thumb {
   position: relative;
-  height: 250px;
+  height: 350px;
+  background-color: #f6f6f6;
 }
 
 .portfolio-item .portfolio-item-thumb:after {
@@ -1998,7 +1999,7 @@ html, body {
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 140px;
+  bottom: 220px;
   margin: 0 auto;
   background-color: #ffffff;
   opacity: 0;
